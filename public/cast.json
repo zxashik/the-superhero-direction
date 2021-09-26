@@ -1,0 +1,119 @@
+[
+  {
+    "key": 1,
+    "name": "Christopher Nolan",
+    "role": "director",
+    "age": "51",
+    "country": "united kingdom",
+    "salary": 100000,
+    "img": "https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_UY1200_CR118,0,630,1200_AL_.jpg"
+  },
+  {
+    "key": 2,
+    "name": "Matthew McConaughey",
+    "role": "actor",
+    "age": "51",
+    "country": "United States",
+    "salary": 130000,
+    "img": "https://media.gq.com/photos/5f885ac8bd3a91bc1eca619f/1:1/w_2968,h_2968,c_limit/Matthew%20McConaughey%20interview%20gq%20october%202020.jpg"
+  },
+  {
+    "key": 3,
+    "name": "Anne Hathaway",
+    "role": "actress",
+    "age": "38",
+    "country": "united States",
+    "salary": 390000,
+    "img": "https://i.scdn.co/image/154d4b28360a1ec7c684ee7aacec6e9dba39ca8d"
+  },
+  {
+    "key": 4,
+    "name": "Jessica Chastain",
+    "role": "actress",
+    "age": "44",
+    "country": "united State",
+    "salary": 460000,
+    "img": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_.jpg"
+  },
+  {
+    "key": 5,
+    "name": "Michael Caine",
+    "role": "actor",
+    "age": "88",
+    "country": "united kingdom",
+    "salary": 600000,
+    "img": "https://www.bollywoodhungama.com/wp-content/uploads/2020/07/Michael-Caine-to-narrate-gripping-six-part-audio-series-called-Heist-.jpg"
+  },
+  {
+    "key": 6,
+    "name": "Mackenzie Foy",
+    "role": "actress",
+    "age": "20",
+    "country": "united States",
+    "salary": 40000,
+    "img": "https://pbs.twimg.com/profile_images/1032018409578348546/kseBF49z_400x400.jpg"
+  },
+  {
+    "key": 7,
+    "name": "Casey Affleck",
+    "role": "actor",
+    "age": "46",
+    "country": "united States",
+    "salary": 100000,
+    "img": "https://www.stylist.co.uk/images/app/uploads/2019/08/06113036/casey-affleck-crop-1565087529-1067x1067.jpeg?w=256&h=256&fit=max&auto=format%2Ccompress"
+  },
+  {
+    "key": 8,
+    "name": "Timothée Chalamet",
+    "role": "actor",
+    "age": "25",
+    "country": "united States",
+    "salary": 100000,
+    "img": "https://cdn.shopify.com/s/files/1/1566/2889/articles/PORTADA-TC_2048x.progressive.jpg?v=1625573349"
+  },
+  {
+    "key": 9,
+    "name": "Matt Damon",
+    "role": "actor",
+    "age": "50",
+    "country": "united States",
+    "salary": 2000,
+    "img": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_UY1200_CR132,0,630,1200_AL_.jpg"
+  },
+  {
+    "key": 10,
+    "name": "Wes Bentley",
+    "role": "actor",
+    "age": "43",
+    "country": "united Stats",
+    "salary": 450000,
+    "img": "https://m.media-amazon.com/images/M/MV5BOTgyOTY5OTA5OF5BMl5BanBnXkFtZTcwNzM1MjM1Nw@@._V1_.jpg"
+  },
+  {
+    "key": 11,
+    "name": "John Lithgow",
+    "role": "actor",
+    "age": "75",
+    "country": "united States",
+    "salary": 15000,
+    "img": "https://m.media-amazon.com/images/M/MV5BMTQzMzUyNDkzNF5BMl5BanBnXkFtZTcwNTMwNTU5MQ@@._V1_UY264_CR16,0,178,264_AL_.jpg"
+  },
+  {
+    "key": 12,
+    "name": "Topher Grace",
+    "role": "actor",
+    "age": "43",
+    "country": "united States",
+    "salary": 6000,
+    "img": "https://pbs.twimg.com/profile_images/880813689741352962/0-cLuTjq.jpg"
+  },
+  {
+    "key": 13,
+    "name": "Hans Zimmer",
+    "role": "film score composer",
+    "age": "64",
+    "country": "Germany",
+    "salary": 100000,
+    "img": "https://m.media-amazon.com/images/M/MV5BMzc2MjMzMjY4MV5BMl5BanBnXkFtZTcwODAzODU2Mw@@._V1_UY317_CR4,0,214,317_AL_.jpg"
+  }
+]
